@@ -1,0 +1,34 @@
+* {
+    font-family: roboto;
+    background-color: azure;
+}
+
+.icon_buscador {
+    /*display inline block los pone en filita*/
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline;
+    padding: 4px;
+}
+
+footer ul {
+    display: inline-block;
+    margin: 15px 12px;
+}
+
+footer ul li {
+    display: inline;
+    padding: 15px;
+}
+
+
+
+/*aling text, float, unidades de medida*/
